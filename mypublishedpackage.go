@@ -7,3 +7,7 @@ func dec(a, b int) int {
 func Add(a, b int) int {
 	return a + b
 }
+
+func div(a, b int) int {
+	return a / b
+}
